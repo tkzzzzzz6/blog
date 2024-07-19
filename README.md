@@ -1,39 +1,23 @@
-# blog
+# Blog
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+大家好，这是我的博客，主要记录和分享一些我平时学习的技术文章、学习心得、生活感悟等。
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+#### 目录列表
+|标题|文章链接|资源/项目地址|学习视频/文章链接|
+|---|---|---|---|
+|几个有用的cmd命令|[有用的cmd命令](doc\blog\几个有用的cmd命令.md)|无|[8个简单有用windows命令，肯定有你不知道的技巧 榨干硬盘空间，文件加密，局域网信息，公网信息，链路诊断，链接过的wifi密码，win11免登录，系统修复](https://www.bilibili.com/video/BV1Yy421B7zu?vd_source=8b748b097c1513281bb437b86772b4df)|
+|
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.点击文章链接即可阅读文章内容并进行学习<br>
+2.点击资源/项目地址即可下载资源或查看项目代码<br>
+3.点击学习视频/文章链接即可观看学习视频或阅读学习文章<br>
 
-#### 参与贡献
+#### 如何参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1. Fork 本仓库
+2. 新建分支，如 `git checkout -b my-blog`
+3. 修改或添加文章，并提交 `git commit -am 'add my-blog'`
+4. 推送分支到远程仓库 `git push origin my-blog`
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
